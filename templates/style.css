@@ -1,0 +1,16 @@
+#head {
+    background-color: dodgerblue;
+    text-align: center;
+    font-size: 50px;
+    
+    
+}
+
+#example {
+    image-rendering: auto;
+}
+
+h2 {
+    background-color: forestgreen;
+    text-align: center;
+}
